@@ -1,5 +1,12 @@
-.p {
-  background-color: white;
-  text-align: center;
-  color: azure;
+* {
+  margin: 100px;
+  padding: 0;
+  background-color: aqua;
+}
+p {
+  width: 20px;
+  padding: 20px 80px;
+  background-color: violet;
+  text-align: centre;
+  color: rgb(22, 141, 141);
 }
